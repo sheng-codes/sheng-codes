@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there! 👍
+
+<b><p align="center">I'm a app developer student excited to try and learn new things! I am currently learning JavaScript and TypeScript frameworks for both web and app development. I have good understanding in back-end programming languages such as Java and Python</p></b>
 
 <!--
 **sheng-codes/sheng-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
